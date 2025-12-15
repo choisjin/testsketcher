@@ -1,0 +1,4 @@
+# TestSketcher Python Dependencies
+
+robotframework>=6.0
+robotframework-seleniumlibrary>=6.0
